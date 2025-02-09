@@ -1,2 +1,8 @@
+
 Task1.ipynb
 mylog.txt
+venv/
+output/
+aggregation_checkpoint/
+.DS_Store
+
